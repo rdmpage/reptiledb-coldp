@@ -1,4 +1,4 @@
-doi: 
+doi: 10.5281/zenodo.7535022
 title: Reptile Database with literature
 alias: ReptileDB Literature
 description: "This dataset builds upon the Reptile Database by adding persistent identifiers for publications (e.g., DOIs, Wikidata). The goal is to have every scientific name linked to a citable identifier for the corresponding publication.\nThe original Reptile Database is CC-BY, this mapping between names, publications and DOIs is CC-0."
@@ -20,8 +20,6 @@ confidence:
 completeness: 
 license: CC-0
 source:
-
-    
   - id: http://www.reptile-database.org
     type: dataset
     title: The Reptile Database
